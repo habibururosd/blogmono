@@ -292,5 +292,4 @@
             </div><!-- /.navbar-collapse -->
         </div>
     </nav>
-    <!-- END OF/. NAVIGATION -->
 </header>
